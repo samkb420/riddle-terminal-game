@@ -2,9 +2,13 @@
 
 
 ![How it looks](Docs_r/rid.png).
-## Gaming....
+## Download and cloning
 -- Fell free to Edit and can contribute**.
--- try it.
+```
+git clone https://github.com/samkb420/riddle-terminal-game.git
+cd riddle-terminal-game
+
+```
 ## usage on terminal
 ```
 python rid.py
